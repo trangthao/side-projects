@@ -69,7 +69,7 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.  
   - **Key Highlights:** Predicted hotel clusters using classification models to recommend contextually relevant hotels. Employed clustering to group similar hotels and handle sparse data for newly listed hotels.
  
-### **4. Optimization**
+### **5. Optimization**
 - **Budget Optimization for Marketing Channels**  
   - **Description:** Developed an optimization model to allocate marketing budgets effectively across multiple channels, maximizing returns based on historical performance data.
   - **Tech Stack:** Python, GEKKO, Pandas, Matplotlib.  
