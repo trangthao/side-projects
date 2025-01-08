@@ -83,3 +83,8 @@ The dataset includes various fields describing user search behavior and hotel at
 ### 3. **Seasonal and Temporal Patterns:**
    - There are clear peaks in bookings during certain months (e.g., summer and holiday seasons) and days of the week (e.g., Fridays for weekend getaways).
    - Insight: Use seasonal trends to launch promotions, increase inventory for peak periods, and optimize pricing strategies.
+
+### 4. **Models performance:**
+    - Decision Tree has the highest test accuracy (32.45%) among all models, but it suffers from severe overfitting.
+    - XGBoost performs more consistently across training and test data, showing potential for improvement with hyperparameter tuning and feature engineering.
+    - Top-5 accuracy is a more relevant metric than exact prediction accuracy since users are often presented with multiple recommendations. A top-5 accuracy of ~59% suggests that the correct hotel cluster is likely included in the recommendations for over half of the users.
