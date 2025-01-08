@@ -35,6 +35,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Implemented Conditional Average Treatment Effect (CATE) estimation using the Criteo Uplift Modeling Dataset to predict and optimize user responsiveness to advertising campaigns.  
   - **Tech Stack:** Python, EconML, NumPy, Pandas, Scikit-learn, Matplotlib.
   - **Key Highlights:** Used causal inference techniques like Double Machine Learning and meta-learners, generated Qini and uplift curves for evaluation, and provided actionable insights for ad campaign targeting and budget optimization.
+ 
+- **Budget Optimization for Marketing Channels**  
+  - **Description:** Developed an optimization model to allocate marketing budgets effectively across multiple channels, maximizing returns based on historical performance data.
+  - **Tech Stack:** Python, GEKKO, Pandas, Matplotlib.  
+  - **Key Highlights:** Modeled multi-channel budget constraints, maximized campaign ROI, handled complex channel-wise constraints, and provided actionable budget recommendations.
 
 ---
 
@@ -63,3 +68,9 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed a machine learning model to predict a user's likelihood of booking one of 100 hotel clusters based on Expedia's customer interaction data. The system enhances personalized hotel recommendations, improving user satisfaction and platform engagement.  
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.  
   - **Key Highlights:** Predicted hotel clusters using classification models to recommend contextually relevant hotels. Employed clustering to group similar hotels and handle sparse data for newly listed hotels.
+ 
+### **4. Optimization**
+- **Budget Optimization for Marketing Channels**  
+  - **Description:** Developed an optimization model to allocate marketing budgets effectively across multiple channels, maximizing returns based on historical performance data.
+  - **Tech Stack:** Python, GEKKO, Pandas, Matplotlib.  
+  - **Key Highlights:** Modeled multi-channel budget constraints, maximized campaign ROI, handled complex channel-wise constraints, and provided actionable budget recommendations.
