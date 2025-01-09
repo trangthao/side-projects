@@ -30,6 +30,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Tech Stack:** Python, Scikit-learn, XGBoost, Random Forest, Matplotlib, Seaborn.  
   - **Key Highlights:** EDA to uncover churn drivers, feature engineering for customer behavior insights, high recall and precision for identifying at-risk customers, and actionable retention strategies to reduce churn rate.
  
+- **Loan Eligibility Prediction Analysis**
+  - **Description:** Built a machine learning model to predict loan eligibility for applicants based on financial and demographic data. The project aimed to assist financial institutions in streamlining loan approval processes and improving decision-making accuracy.
+  - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.
+  - **Key Highlights:** Predicted loan eligibility using classification models, incorporating Gradient Boosting for improved accuracy. Addressed class imbalance using techniques like class weighting and feature engineering to enhance model robustness and reliability.
+ 
 ### **3. Advertising**
 - **Criteo Advertising CATE Estimation**  
   - **Description:** Implemented Conditional Average Treatment Effect (CATE) estimation using the Criteo Uplift Modeling Dataset to predict and optimize user responsiveness to advertising campaigns.  
@@ -63,8 +68,13 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Tech Stack:** Python, Scikit-learn, XGBoost, Random Forest, Matplotlib, Seaborn.  
   - **Key Highlights:** EDA to uncover churn drivers, feature engineering for customer behavior insights, high recall and precision for identifying at-risk customers, and actionable retention strategies to reduce churn rate.
  
+- **Loan Eligibility Prediction Analysis**
+  - **Description:** Built a machine learning model to predict loan eligibility for applicants based on financial and demographic data. The project aimed to assist financial institutions in streamlining loan approval processes and improving decision-making accuracy.
+  - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.
+  - **Key Highlights:** Predicted loan eligibility using classification models, incorporating Gradient Boosting for improved accuracy. Addressed class imbalance using techniques like class weighting and feature engineering to enhance model robustness and reliability.
+ 
 ### **4. Recommendation Systems**
-- **Customer Churn Prediction Analysis**  
+- **Expedia Hotel Recommendation System**  
   - **Description:** Developed a machine learning model to predict a user's likelihood of booking one of 100 hotel clusters based on Expedia's customer interaction data. The system enhances personalized hotel recommendations, improving user satisfaction and platform engagement.  
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.  
   - **Key Highlights:** Predicted hotel clusters using classification models to recommend contextually relevant hotels. Employed clustering to group similar hotels and handle sparse data for newly listed hotels.
