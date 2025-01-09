@@ -1,4 +1,4 @@
-# Loan Eligibility Prediction using Gradient Boosting Classifier
+# Loan Eligibility Prediction
 
 ## Overview
 This project focuses on predicting loan eligibility using a Gradient Boosting Classifier. The objective is to build a robust model that identifies eligible applicants based on a set of predefined features. This project includes data preprocessing, exploratory data analysis (EDA), feature engineering, and model optimization.
