@@ -4,6 +4,12 @@
 
 This project involves creating a dashboard using PowerBI to analyze and visualize key metrics related to Amazon Prime's performance. The aim is to understand trends, patterns, and correlations within the data. This project is a practice from [DataScience Roadmap video](https://www.youtube.com/watch?v=_xs8XXlGQVM&t=916s). 
 
+## Dashboard Preview
+
+Below is a preview of the Power BI dashboard created for this project:
+
+![Amazon Prime Dashboard](power-bi-amazon-primes.png)
+
 ## Features
 
 - **Key Metrics**: Insights into subscription trends, customer engagement, and content performance.
