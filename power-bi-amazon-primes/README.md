@@ -8,7 +8,7 @@ This project involves creating a dashboard using PowerBI to analyze and visualiz
 
 Below is a preview of the Power BI dashboard created for this project:
 
-![Amazon Prime Dashboard](power-bi-amazon-prime.png)
+![Amazon Prime Dashboard](powerbi-amazon-prime.JPG)
 
 ## Features
 
