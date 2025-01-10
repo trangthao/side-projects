@@ -46,6 +46,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Tech Stack:** Python, GEKKO, Pandas, Matplotlib.  
   - **Key Highlights:** Modeled multi-channel budget constraints, maximized campaign ROI, handled complex channel-wise constraints, and provided actionable budget recommendations.
 
+### **4. Retail**
+- **Power BI dashboard: Amazon Prime Videos**  
+  - **Description:** Designed and developed an interactive Power BI dashboard to analyze key performance indicators (KPIs) for Amazon Prime. The dashboard provides actionable insights into subscription trends, customer engagement, and service performance.
+  - **Tech Stack:** Power BI
+  - **Key Highlights:** Implemented advanced DAX measures for dynamic filtering and drill-through analysis. Created interactive charts and graphs for in-depth analysis of regional trends, customer segments, and content preferences.
 ---
 
 ## **Projects by Tasks**
@@ -84,3 +89,9 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed an optimization model to allocate marketing budgets effectively across multiple channels, maximizing returns based on historical performance data.
   - **Tech Stack:** Python, GEKKO, Pandas, Matplotlib.  
   - **Key Highlights:** Modeled multi-channel budget constraints, maximized campaign ROI, handled complex channel-wise constraints, and provided actionable budget recommendations.
+ 
+### **6. Visualization**
+- **Power BI dashboard: Amazon Prime Videos**  
+  - **Description:** Designed and developed an interactive Power BI dashboard to analyze key performance indicators (KPIs) for Amazon Prime. The dashboard provides actionable insights into subscription trends, customer engagement, and service performance.
+  - **Tech Stack:** Power BI
+  - **Key Highlights:** Implemented advanced DAX measures for dynamic filtering and drill-through analysis. Created interactive charts and graphs for in-depth analysis of regional trends, customer segments, and content preferences.
