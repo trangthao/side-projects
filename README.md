@@ -51,6 +51,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Designed and developed an interactive Power BI dashboard to analyze key performance indicators (KPIs) for Amazon Prime. The dashboard provides actionable insights into subscription trends, customer engagement, and service performance.
   - **Tech Stack:** Power BI
   - **Key Highlights:** Implemented advanced DAX measures for dynamic filtering and drill-through analysis. Created interactive charts and graphs for in-depth analysis of regional trends, customer segments, and content preferences.
+ 
+- **[Avocado price prediction](https://github.com/trangthao/side-projects/tree/main/avocado-price-prediction)**  
+  - **Description:** Developed a machine learning-based approach to forecast avocado prices and trends, aiding strategic decision-making for a farming company. The project analyzed seasonality, regional variations, and sales trends to optimize pricing and inventory strategies.
+  - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Prophet.
+  - **Key Highlights:** Compared ARIMA and Prophet models for price forecasting, with Prophet outperforming in capturing seasonality and long-term trends. Delivered actionable insights for dynamic pricing, promotion timing, and regional sales optimization to boost profitability.
 ---
 
 ## **Projects by Tasks**
@@ -77,19 +82,25 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.
   - **Key Highlights:** Predicted loan eligibility using classification models, incorporating Gradient Boosting for improved accuracy. Addressed class imbalance using techniques like class weighting and feature engineering to enhance model robustness and reliability.
  
-### **3. Recommendation Systems**
+### **3. Prediction**
+- **[Avocado price prediction](https://github.com/trangthao/side-projects/tree/main/avocado-price-prediction)**  
+  - **Description:** Developed a machine learning-based approach to forecast avocado prices and trends, aiding strategic decision-making for a farming company. The project analyzed seasonality, regional variations, and sales trends to optimize pricing and inventory strategies.
+  - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Prophet.
+  - **Key Highlights:** Compared ARIMA and Prophet models for price forecasting, with Prophet outperforming in capturing seasonality and long-term trends. Delivered actionable insights for dynamic pricing, promotion timing, and regional sales optimization to boost profitability.
+ 
+### **4. Recommendation Systems**
 - **[Expedia Hotel Recommendation System](https://github.com/trangthao/side-projects/tree/main/expedia-hotel-recommendation)**  
   - **Description:** Developed a machine learning model to predict a user's likelihood of booking one of 100 hotel clusters based on Expedia's customer interaction data. The system enhances personalized hotel recommendations, improving user satisfaction and platform engagement.  
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.  
   - **Key Highlights:** Predicted hotel clusters using classification models to recommend contextually relevant hotels. Employed clustering to group similar hotels and handle sparse data for newly listed hotels.
  
-### **4. Optimization**
+### **5. Optimization**
 - **[Budget Optimization for Marketing Channels](https://github.com/trangthao/side-projects/tree/main/multi-touch-attribution-ml)**  
   - **Description:** Developed an optimization model to allocate marketing budgets effectively across multiple channels, maximizing returns based on historical performance data.
   - **Tech Stack:** Python, GEKKO, Pandas, Matplotlib.  
   - **Key Highlights:** Modeled multi-channel budget constraints, maximized campaign ROI, handled complex channel-wise constraints, and provided actionable budget recommendations.
  
-### **5. Visualization**
+### **6. Visualization**
 - **[Power BI dashboard: Amazon Prime Videos](https://github.com/trangthao/side-projects/tree/main/power-bi-amazon-primes)**  
   - **Description:** Designed and developed an interactive Power BI dashboard to analyze key performance indicators (KPIs) for Amazon Prime. The dashboard provides actionable insights into subscription trends, customer engagement, and service performance.
   - **Tech Stack:** Power BI
