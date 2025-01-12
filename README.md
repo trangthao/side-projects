@@ -34,6 +34,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Built a machine learning model to predict loan eligibility for applicants based on financial and demographic data. The project aimed to assist financial institutions in streamlining loan approval processes and improving decision-making accuracy.
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.
   - **Key Highlights:** Predicted loan eligibility using classification models, incorporating Gradient Boosting for improved accuracy. Addressed class imbalance using techniques like class weighting and feature engineering to enhance model robustness and reliability.
+
+- **[Credit Card Default Prediction](https://github.com/trangthao/side-projects/tree/main/credit-card-default)**
+  - **Description:** Built a machine learning model to predict credit card default risk using borrower data, enabling banks to identify high-risk customers and reduce lending risks. The model incorporates personal and financial history details for accurate forecasting of payment delinquencies.
+  - **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM, XGBoost, Keras, TensorFlow, Matplotlib, Seaborn.
+  - **Key Highlights:** Cleaned and preprocessed imbalanced datasets, performed exploratory data analysis (EDA), implemented multiple machine learning models, evaluated model performance using precision, recall, and AUC, and optimized model selection for high-risk customer prediction.
  
 ### **3. Advertising**
 - **[Criteo Advertising CATE Estimation](https://github.com/trangthao/side-projects/tree/main/advertising-cate-estimation)**  
@@ -81,6 +86,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Built a machine learning model to predict loan eligibility for applicants based on financial and demographic data. The project aimed to assist financial institutions in streamlining loan approval processes and improving decision-making accuracy.
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.
   - **Key Highlights:** Predicted loan eligibility using classification models, incorporating Gradient Boosting for improved accuracy. Addressed class imbalance using techniques like class weighting and feature engineering to enhance model robustness and reliability.
+ 
+- **[Credit Card Default Prediction](https://github.com/trangthao/side-projects/tree/main/credit-card-default)**
+  - **Description:** Built a machine learning model to predict credit card default risk using borrower data, enabling banks to identify high-risk customers and reduce lending risks. The model incorporates personal and financial history details for accurate forecasting of payment delinquencies.
+  - **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM, XGBoost, Keras, TensorFlow, Matplotlib, Seaborn.
+  - **Key Highlights:** Cleaned and preprocessed imbalanced datasets, performed exploratory data analysis (EDA), implemented multiple machine learning models, evaluated model performance using precision, recall, and AUC, and optimized model selection for high-risk customer prediction.
  
 ### **3. Prediction**
 - **[Avocado price prediction](https://github.com/trangthao/side-projects/tree/main/avocado-price-prediction)**  
