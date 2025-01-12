@@ -61,6 +61,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed a machine learning-based approach to forecast avocado prices and trends, aiding strategic decision-making for a farming company. The project analyzed seasonality, regional variations, and sales trends to optimize pricing and inventory strategies.
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Prophet.
   - **Key Highlights:** Compared ARIMA and Prophet models for price forecasting, with Prophet outperforming in capturing seasonality and long-term trends. Delivered actionable insights for dynamic pricing, promotion timing, and regional sales optimization to boost profitability.
+
+- **[Bigmart Sales Prediction](https://github.com/trangthao/side-projects/tree/main/bigmart-sales-prediction)**  
+  - **Description:** Developed a machine learning model to predict sales for Bigmart stores, helping the company optimize inventory management and promotional strategies. The model uses historical sales data along with product and store-specific features to accurately forecast future sales and improve operational efficiency.
+  - **Tech Stack:** Python, Pandas, Scikit-Learn, XGBoost, LightGBM, Matplotlib, Seaborn.
+  - **Key Highlights:** Cleaned and preprocessed sales data, performed exploratory data analysis (EDA), explored various machine learning models including Random Forest, Gradient Boosting, and Neural Networks, evaluated model performance using metrics like R-squared, MAE, and RMSE, and selected the best-performing model for sales prediction.
 ---
 
 ## **Projects by Tasks**
@@ -97,6 +102,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed a machine learning-based approach to forecast avocado prices and trends, aiding strategic decision-making for a farming company. The project analyzed seasonality, regional variations, and sales trends to optimize pricing and inventory strategies.
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Prophet.
   - **Key Highlights:** Compared ARIMA and Prophet models for price forecasting, with Prophet outperforming in capturing seasonality and long-term trends. Delivered actionable insights for dynamic pricing, promotion timing, and regional sales optimization to boost profitability.
+ 
+- **[Bigmart Sales Prediction](https://github.com/trangthao/side-projects/tree/main/bigmart-sales-prediction)**  
+  - **Description:** Developed a machine learning model to predict sales for Bigmart stores, helping the company optimize inventory management and promotional strategies. The model uses historical sales data along with product and store-specific features to accurately forecast future sales and improve operational efficiency.
+  - **Tech Stack:** Python, Pandas, Scikit-Learn, XGBoost, LightGBM, Matplotlib, Seaborn.
+  - **Key Highlights:** Cleaned and preprocessed sales data, performed exploratory data analysis (EDA), explored various machine learning models including Random Forest, Gradient Boosting, and Neural Networks, evaluated model performance using metrics like R-squared, MAE, and RMSE, and selected the best-performing model for sales prediction.
  
 ### **4. Recommendation Systems**
 - **[Expedia Hotel Recommendation System](https://github.com/trangthao/side-projects/tree/main/expedia-hotel-recommendation)**  
