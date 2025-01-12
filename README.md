@@ -66,6 +66,12 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed a machine learning model to predict sales for Bigmart stores, helping the company optimize inventory management and promotional strategies. The model uses historical sales data along with product and store-specific features to accurately forecast future sales and improve operational efficiency.
   - **Tech Stack:** Python, Pandas, Scikit-Learn, XGBoost, LightGBM, Matplotlib, Seaborn.
   - **Key Highlights:** Cleaned and preprocessed sales data, performed exploratory data analysis (EDA), explored various machine learning models including Random Forest, Gradient Boosting, and Neural Networks, evaluated model performance using metrics like R-squared, MAE, and RMSE, and selected the best-performing model for sales prediction.
+
+### **5. Logistics**
+- **[Shipment multilabel classification](https://github.com/trangthao/side-projects/tree/main/shipment-multilabel-classification)**  
+  - **Description:** Developed a machine learning model to predict the optimal mode of transport for shipments, enabling businesses to optimize logistics operations. The model uses shipment data including product types, distances, and destinations to determine the most suitable transport method, improving delivery efficiency, reducing costs, and enhancing customer satisfaction.
+  - **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM, XGBoost, Keras, TensorFlow, Matplotlib, Seaborn.
+  - **Key Highlights:** Explored and preprocessed the dataset, addressing missing values and encoding categorical features. Implemented multiple multilabel classification approaches such as naive independent models, classifier chains, natively multilabel models, and the multilabel-to-multiclass approach. Evaluated model performance using precision, recall, F1 score, and AUC, and optimized the model selection for accurate prediction of shipment modes.
 ---
 
 ## **Projects by Tasks**
@@ -96,6 +102,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Built a machine learning model to predict credit card default risk using borrower data, enabling banks to identify high-risk customers and reduce lending risks. The model incorporates personal and financial history details for accurate forecasting of payment delinquencies.
   - **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM, XGBoost, Keras, TensorFlow, Matplotlib, Seaborn.
   - **Key Highlights:** Cleaned and preprocessed imbalanced datasets, performed exploratory data analysis (EDA), implemented multiple machine learning models, evaluated model performance using precision, recall, and AUC, and optimized model selection for high-risk customer prediction.
+ 
+- **[Shipment multilabel classification](https://github.com/trangthao/side-projects/tree/main/shipment-multilabel-classification)**  
+  - **Description:** Developed a machine learning model to predict the optimal mode of transport for shipments, enabling businesses to optimize logistics operations. The model uses shipment data including product types, distances, and destinations to determine the most suitable transport method, improving delivery efficiency, reducing costs, and enhancing customer satisfaction.
+  - **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM, XGBoost, Keras, TensorFlow, Matplotlib, Seaborn.
+  - **Key Highlights:** Explored and preprocessed the dataset, addressing missing values and encoding categorical features. Implemented multiple multilabel classification approaches such as naive independent models, classifier chains, natively multilabel models, and the multilabel-to-multiclass approach. Evaluated model performance using precision, recall, F1 score, and AUC, and optimized the model selection for accurate prediction of shipment modes.
  
 ### **3. Prediction**
 - **[Avocado price prediction](https://github.com/trangthao/side-projects/tree/main/avocado-price-prediction)**  
