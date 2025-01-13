@@ -67,6 +67,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Tech Stack:** Python, Pandas, Scikit-Learn, XGBoost, LightGBM, Matplotlib, Seaborn.
   - **Key Highlights:** Cleaned and preprocessed sales data, performed exploratory data analysis (EDA), explored various machine learning models including Random Forest, Gradient Boosting, and Neural Networks, evaluated model performance using metrics like R-squared, MAE, and RMSE, and selected the best-performing model for sales prediction.
 
+- **[Text Classification with LSTM](https://github.com/trangthao/side-projects/tree/main/lstm-text)**  
+  - **Description:** Developed a Long Short-Term Memory (LSTM) model to classify text into predefined categories. The model processes sequential data and automatically classifies text for applications like sentiment analysis, spam detection, or content categorization. By leveraging LSTM's ability to capture dependencies in text data, the project aims to automate text classification tasks with high accuracy.
+  - **Tech Stack:** Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn.
+  - **Key Highlights:** Preprocessed text data using tokenization and padding, built an LSTM-based model for classification, evaluated the model using accuracy, precision, recall, and F1 score, and performed hyperparameter tuning to optimize model performance.
+
 ### **5. Logistics**
 - **[Shipment multilabel classification](https://github.com/trangthao/side-projects/tree/main/shipment-multilabel-classification)**  
   - **Description:** Developed a machine learning model to predict the optimal mode of transport for shipments, enabling businesses to optimize logistics operations. The model uses shipment data including product types, distances, and destinations to determine the most suitable transport method, improving delivery efficiency, reducing costs, and enhancing customer satisfaction.
@@ -113,6 +118,11 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed a machine learning model to predict the optimal mode of transport for shipments, enabling businesses to optimize logistics operations. The model uses shipment data including product types, distances, and destinations to determine the most suitable transport method, improving delivery efficiency, reducing costs, and enhancing customer satisfaction.
   - **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM, XGBoost, Keras, TensorFlow, Matplotlib, Seaborn.
   - **Key Highlights:** Explored and preprocessed the dataset, addressing missing values and encoding categorical features. Implemented multiple multilabel classification approaches such as naive independent models, classifier chains, natively multilabel models, and the multilabel-to-multiclass approach. Evaluated model performance using precision, recall, F1 score, and AUC, and optimized the model selection for accurate prediction of shipment modes.
+ 
+- **[Text Classification with LSTM](https://github.com/trangthao/side-projects/tree/main/lstm-text)**  
+  - **Description:** Developed a Long Short-Term Memory (LSTM) model to classify text into predefined categories. The model processes sequential data and automatically classifies text for applications like sentiment analysis, spam detection, or content categorization. By leveraging LSTM's ability to capture dependencies in text data, the project aims to automate text classification tasks with high accuracy.
+  - **Tech Stack:** Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn.
+  - **Key Highlights:** Preprocessed text data using tokenization and padding, built an LSTM-based model for classification, evaluated the model using accuracy, precision, recall, and F1 score, and performed hyperparameter tuning to optimize model performance.
  
 ### **3. Image Classification**
 - **[CNN Image Classification](https://github.com/trangthao/side-projects/tree/main/cnn-image-classification)**  
