@@ -72,6 +72,12 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed a machine learning model to predict the optimal mode of transport for shipments, enabling businesses to optimize logistics operations. The model uses shipment data including product types, distances, and destinations to determine the most suitable transport method, improving delivery efficiency, reducing costs, and enhancing customer satisfaction.
   - **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM, XGBoost, Keras, TensorFlow, Matplotlib, Seaborn.
   - **Key Highlights:** Explored and preprocessed the dataset, addressing missing values and encoding categorical features. Implemented multiple multilabel classification approaches such as naive independent models, classifier chains, natively multilabel models, and the multilabel-to-multiclass approach. Evaluated model performance using precision, recall, F1 score, and AUC, and optimized the model selection for accurate prediction of shipment modes.
+
+### **5. Public Sector**
+- **[CNN Image Classification](https://github.com/trangthao/side-projects/tree/main/cnn-image-classification)**  
+  - **Description:** Developed a Convolutional Neural Network (CNN) to classify images into predefined categories. The model is designed to automate image sorting, product tagging, and object recognition tasks. It uses deep learning techniques to efficiently classify images with high accuracy.
+  - **Tech Stack:** Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn.
+  - **Key Highlights:** Preprocessed image data, built and trained a CNN model using Keras, implemented model evaluation with accuracy, precision, and recall, fine-tuned the model using hyperparameter optimization, and visualized model performance through confusion matrices and ROC curves.
 ---
 
 ## **Projects by Tasks**
@@ -108,7 +114,13 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Tech Stack:** Python, Pandas, Scikit-Learn, LightGBM, XGBoost, Keras, TensorFlow, Matplotlib, Seaborn.
   - **Key Highlights:** Explored and preprocessed the dataset, addressing missing values and encoding categorical features. Implemented multiple multilabel classification approaches such as naive independent models, classifier chains, natively multilabel models, and the multilabel-to-multiclass approach. Evaluated model performance using precision, recall, F1 score, and AUC, and optimized the model selection for accurate prediction of shipment modes.
  
-### **3. Prediction**
+### **3. Image Classification**
+- **[CNN Image Classification](https://github.com/trangthao/side-projects/tree/main/cnn-image-classification)**  
+  - **Description:** Developed a Convolutional Neural Network (CNN) to classify images into predefined categories. The model is designed to automate image sorting, product tagging, and object recognition tasks. It uses deep learning techniques to efficiently classify images with high accuracy.
+  - **Tech Stack:** Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn.
+  - **Key Highlights:** Preprocessed image data, built and trained a CNN model using Keras, implemented model evaluation with accuracy, precision, and recall, fine-tuned the model using hyperparameter optimization, and visualized model performance through confusion matrices and ROC curves.
+ 
+### **4. Prediction**
 - **[Avocado price prediction](https://github.com/trangthao/side-projects/tree/main/avocado-price-prediction)**  
   - **Description:** Developed a machine learning-based approach to forecast avocado prices and trends, aiding strategic decision-making for a farming company. The project analyzed seasonality, regional variations, and sales trends to optimize pricing and inventory strategies.
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Prophet.
@@ -119,19 +131,19 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Tech Stack:** Python, Pandas, Scikit-Learn, XGBoost, LightGBM, Matplotlib, Seaborn.
   - **Key Highlights:** Cleaned and preprocessed sales data, performed exploratory data analysis (EDA), explored various machine learning models including Random Forest, Gradient Boosting, and Neural Networks, evaluated model performance using metrics like R-squared, MAE, and RMSE, and selected the best-performing model for sales prediction.
  
-### **4. Recommendation Systems**
+### **5. Recommendation Systems**
 - **[Expedia Hotel Recommendation System](https://github.com/trangthao/side-projects/tree/main/expedia-hotel-recommendation)**  
   - **Description:** Developed a machine learning model to predict a user's likelihood of booking one of 100 hotel clusters based on Expedia's customer interaction data. The system enhances personalized hotel recommendations, improving user satisfaction and platform engagement.  
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.  
   - **Key Highlights:** Predicted hotel clusters using classification models to recommend contextually relevant hotels. Employed clustering to group similar hotels and handle sparse data for newly listed hotels.
  
-### **5. Optimization**
+### **6. Optimization**
 - **[Budget Optimization for Marketing Channels](https://github.com/trangthao/side-projects/tree/main/multi-touch-attribution-ml)**  
   - **Description:** Developed an optimization model to allocate marketing budgets effectively across multiple channels, maximizing returns based on historical performance data.
   - **Tech Stack:** Python, GEKKO, Pandas, Matplotlib.  
   - **Key Highlights:** Modeled multi-channel budget constraints, maximized campaign ROI, handled complex channel-wise constraints, and provided actionable budget recommendations.
  
-### **6. Visualization**
+### **7. Visualization**
 - **[Power BI dashboard: Amazon Prime Videos](https://github.com/trangthao/side-projects/tree/main/power-bi-amazon-primes)**  
   - **Description:** Designed and developed an interactive Power BI dashboard to analyze key performance indicators (KPIs) for Amazon Prime. The dashboard provides actionable insights into subscription trends, customer engagement, and service performance.
   - **Tech Stack:** Power BI
