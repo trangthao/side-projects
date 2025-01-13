@@ -83,6 +83,13 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed a Convolutional Neural Network (CNN) to classify images into predefined categories. The model is designed to automate image sorting, product tagging, and object recognition tasks. It uses deep learning techniques to efficiently classify images with high accuracy.
   - **Tech Stack:** Python, TensorFlow, Keras, NumPy, Matplotlib, Seaborn.
   - **Key Highlights:** Preprocessed image data, built and trained a CNN model using Keras, implemented model evaluation with accuracy, precision, and recall, fine-tuned the model using hyperparameter optimization, and visualized model performance through confusion matrices and ROC curves.
+
+### **6. Health**
+- **[Medical Embeddings for Clinical Trial Data](https://github.com/trangthao/side-projects/tree/main/medical-embeddings)**  
+  - **Description:** Developed custom word embeddings for clinical trial data to enhance information retrieval and improve decision-making in the healthcare field. The model captures semantic relationships between medical terms, enabling the creation of a search engine that retrieves relevant clinical trials based on textual queries.
+  - **Tech Stack:** Python, Gensim, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn.
+  - **Key Highlights:** Preprocessed clinical trial data, trained Word2Vec and FastText models to generate medical embeddings, built a search engine using cosine similarity, and evaluated model performance based on query relevance and accuracy in retrieving the most similar trials.
+
 ---
 
 ## **Projects by Tasks**
@@ -146,14 +153,20 @@ Welcome to my portfolio of side projects, where I have explored a variety of met
   - **Description:** Developed a machine learning model to predict a user's likelihood of booking one of 100 hotel clusters based on Expedia's customer interaction data. The system enhances personalized hotel recommendations, improving user satisfaction and platform engagement.  
   - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.  
   - **Key Highlights:** Predicted hotel clusters using classification models to recommend contextually relevant hotels. Employed clustering to group similar hotels and handle sparse data for newly listed hotels.
+
+### **6. Information Retrieval**
+- **[Medical Embeddings for Clinical Trial Data](https://github.com/trangthao/side-projects/tree/main/medical-embeddings)**  
+  - **Description:** Developed custom word embeddings for clinical trial data to enhance information retrieval and improve decision-making in the healthcare field. The model captures semantic relationships between medical terms, enabling the creation of a search engine that retrieves relevant clinical trials based on textual queries.
+  - **Tech Stack:** Python, Gensim, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn.
+  - **Key Highlights:** Preprocessed clinical trial data, trained Word2Vec and FastText models to generate medical embeddings, built a search engine using cosine similarity, and evaluated model performance based on query relevance and accuracy in retrieving the most similar trials.
  
-### **6. Optimization**
+### **7. Optimization**
 - **[Budget Optimization for Marketing Channels](https://github.com/trangthao/side-projects/tree/main/multi-touch-attribution-ml)**  
   - **Description:** Developed an optimization model to allocate marketing budgets effectively across multiple channels, maximizing returns based on historical performance data.
   - **Tech Stack:** Python, GEKKO, Pandas, Matplotlib.  
   - **Key Highlights:** Modeled multi-channel budget constraints, maximized campaign ROI, handled complex channel-wise constraints, and provided actionable budget recommendations.
  
-### **7. Visualization**
+### **8. Visualization**
 - **[Power BI dashboard: Amazon Prime Videos](https://github.com/trangthao/side-projects/tree/main/power-bi-amazon-primes)**  
   - **Description:** Designed and developed an interactive Power BI dashboard to analyze key performance indicators (KPIs) for Amazon Prime. The dashboard provides actionable insights into subscription trends, customer engagement, and service performance.
   - **Tech Stack:** Power BI
